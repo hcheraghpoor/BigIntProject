@@ -17,7 +17,8 @@ public class BigIntClass {
     //############################ Methods
     //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Constructors
     public BigIntClass() {
-        //تکمیل شود
+        //تکمیل شود 
+        // با مقدار  صفر
     }
 
     public BigIntClass(String str) {
@@ -26,12 +27,13 @@ public class BigIntClass {
 
     public BigIntClass(long b) {
         //تکمیل شود
+        // ابتدا عدد ورودی به رشته تبدیل کرده و سپس شی را با  رشته تولید شده مقدار دهی می کنیم
     }
 
 //construct clone of BigIntClass
     public BigIntClass(BigIntClass x) {
         //تکمیل شود
-        //نحتخ
+        
     }
 //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Setters
 
@@ -65,5 +67,7 @@ public void setMultiBigInt(BigIntClass x , BigIntClass y){
 public void setDivideBigInt(BigIntClass x , BigIntClass y){
     //تکمیل شود(اختیاری) 
 }
-
+public void setPowerBigInt(BigIntClass x , int y){
+    //تکمیل شود(اختیاری) 
 }
+}//
