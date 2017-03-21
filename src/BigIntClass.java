@@ -31,6 +31,7 @@ public class BigIntClass {
 //construct clone of BigIntClass
     public BigIntClass(BigIntClass x) {
         //تکمیل شود
+        //نحتخ
     }
 //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Setters
 
